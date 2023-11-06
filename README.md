@@ -1,6 +1,6 @@
 # Shoping website
 
-## <b> [Click here to Visit!!](https://ajay6217.github.io/memory_matching_game/index.html)
+## <b> [Click here to Visit!!]([https://ajay6217.github.io/shopnow/])
 
 
 This project is made using HTML,CSS &amp; JavaScript.
